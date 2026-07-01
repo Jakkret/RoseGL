@@ -4,6 +4,9 @@
  */
  
  /** 	COMMENTS ARE IN POLISH, THE CODE JUST HURTS THE EYES ... 	**/
+
+// 1.07.2026 - I Could refactor and cleanup the code so it would be clearer, but that's a relic
+// + no need to make it faster, it dosen't affect performance.
  
 #include <stdio.h>
 #include <stdlib.h>
